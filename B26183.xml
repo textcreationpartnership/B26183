@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons allarum, or The great and bloody plot of the Fifth-Monarchy-Men discovered being a perfect relation of their most horrid, damnable, treasonable, and tumultuous rising on Sunday night last: with the names of the gentlemen killed and wounded at St. Pauls, Redcross-street, White-Cross, and Bishops-Gate: as also, the manner of their bloody design, their resolution and intentions; and the number of prisoners taken, and committed to New-Gate, the Gate-House, and other places; together with a further discovery of their wicked design; and a perfect narrative of their bloody proceedings on Wednesday morning last. Likewise, a list of the names of these bloody traytors; and the number kill'd ant taken prisoners on both sides.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26183</idno><idno type="EEBO-CITATION">99829376</idno>
+  <idno type="VID">33814</idno>
+  <idno type="EEBO-PROQUEST">2240861338</idno>
+  
+            <idno type="STC">Wing L2918</idno>
+            <idno type="STC">ESTC R217727</idno>
+            <idno type="PROQUEST">99829376</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829376e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons allarum, or The great and bloody plot of the Fifth-Monarchy-Men discovered being a perfect relation of their most horrid, damnable, treasonable, and tumultuous rising on Sunday night last: with the names of the gentlemen killed and wounded at St. Pauls, Redcross-street, White-Cross, and Bishops-Gate: as also, the manner of their bloody design, their resolution and intentions; and the number of prisoners taken, and committed to New-Gate, the Gate-House, and other places; together with a further discovery of their wicked design; and a perfect narrative of their bloody proceedings on Wednesday morning last. Likewise, a list of the names of these bloody traytors; and the number kill'd ant taken prisoners on both sides.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton, for general satisfaction,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: The great abd bloody plot discovered.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fifth Monarchy Men --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33814:1"/>
+            <pb facs="tcp:33814:1"/>
+            <p>Londons Allarum Or, the Grea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Bloody PLOT OF THE Fifth-Monarchy-Men Discovered:</p>
+            <p>Being a perfect Relation of their most horrid, damnable, treasonable, and tu<g ref="char:EOLhyphen"/>multuous Rising on <hi>Sunday</hi> Night last: With the Names of the Gen<g ref="char:EOLhyphen"/>tlemen killed and wounded at St. <hi>Pauls, Re<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cross-street, White-Cross,</hi> and <hi>Bishops-Gate:</hi>
+            </p>
+            <p>
+               <hi>AS ALSO,</hi> The Manner of their Bloody Design, their Resolution and Intentions; and the Number of Prisoners taken, and committed to <hi>New-Gate,</hi> the <hi>Gate-House,</hi> awd other Places; Together with a further Discovery of their wicked Design; and a pe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fect Narrative of their bloody proceedings on <hi>Wednesday</hi> morning last. Likewise, a List of the names of these bloody T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aytors; and the numbe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kill'd and taken priso<g ref="char:EOLhyphen"/>ners on both sides.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> for general satisfaction 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33814:2"/>
+            <pb n="3" facs="tcp:33814:2"/>
+            <head>The Great and Bloody Plot discovered.</head>
+            <p>THere being a Generation of Men that seem dis-satisfied with the present Transactions of these latter Times, and being somewhat numerous, have endeavoured to diffuse their wicked Poyson in several parts of the Kingdom; for, indeed, they are a Generation most pestiferous in their Doctrine, and dangerous in their seduction, and so ought of all true subjects to be avoided: Yet (blessed be God) many there are of late, who being sensible of their erroneous Ways, are reduced from them, and it is hoped (in a little time) many more will be so wise, as to do the like, which may prove the Death and Burial of their Fanatick Doctrine: Since it hath pleased the most High to put a check to their damnable and tr<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>onable Designs, ten<g ref="char:EOLhyphen"/>ding to the utter extirpation of Monarchy, the ruine of the No<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lity, and the desolation both of Gentry and Commonalty: For the accomplishing of this most horrid and bloody Design, they had secretly entred into a Combination to appear in Arms, and to meet and imbody at their appointed Rendevouz: In order whereunto on <hi>Sun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay</hi> night last several Parties too well armed began to appear in several parts of the City; some marching one way, and some another, till at the last great was the Allarum throughout the streets; insomuch that the Trained Bands ap<g ref="char:EOLhyphen"/>peared immediatly in Arms, guarding several Passes and Ave<g ref="char:EOLhyphen"/>nues: but before they could appear thus formidable, some loyal subjects lost their lives: for about twelve of the clock near St. <hi>Pauls</hi> a Party of Fifth-Mona<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chy men marching that way, and meeting a Gentleman near the North Door bid him stand,
+<pb n="4" facs="tcp:33814:3"/> asking him who he was for? He answered for <hi>God and King</hi> Charles. To whom he replyed, who are you for, they said for <hi>King Iesus:</hi> and immediatly shot him into the head.</p>
+            <p>From thence they marched to <hi>Alders-Gate,</hi> where passing the Watch, they came to <hi>Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cross-street,</hi> and from thence to the <hi>White-Cross,</hi> where they met with some opposi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion; For Mr. <hi>He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ley</hi> the Headborough commanding the Watch, (a Gentle<g ref="char:EOLhyphen"/>man of good esteem and repute, and as cordial to his Prince, as faithful to his Countrey) caused them to stand, and endeavou<g ref="char:EOLhyphen"/>red to make good that Pass, and impede their marching through <hi>Becch-Lane</hi> into <hi>Moor-fields;</hi> but the Rebels pressing upon him, he disputed it with his staff, and being over-powred by their great Number, s crificed his life for his <hi>King and Countrey,</hi> re<g ref="char:EOLhyphen"/>ceiving two shots in the breast, and one in his throat, of which he immediatly died, his death being much lamented by many.</p>
+            <p>During which time, great was the Allarum throughout the City, the streets being fill'd with Ecchoes, <hi>Arms, Arms, Arms;</hi> the loyal Party crying out for <hi>God and King</hi> Charles; the Fifth-Monarchy-men fot <hi>King Jesus,</hi> being exceeding resolute in their treasonable Exploits. And had it not pleased the Hand of Pro<g ref="char:EOLhyphen"/>vidence timely to have put a check to their Rebellious Design, the event of their wicked Undertakings might have proved of ve<g ref="char:EOLhyphen"/>ry sad and dangerous Consequence: but through the indefatiga<g ref="char:EOLhyphen"/>ble pains and prudence of the Right honourable the Lord Mayor their Design proved no <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> feasible as they ezpected; for the trai<g ref="char:EOLhyphen"/>ned Bands being immediatly raised, they were forced to escape by small Parties, and the peace of the City was therein much pre<g ref="char:EOLhyphen"/>served.</p>
+            <p>In the Suburbs Major <hi>Ralph Tasker</hi> of the Green Regiment, a wise and discreet Commander, was very vigilant to preserve the peace of those parts, and to suppress and allay the fury of those Fanatick Distempers; in which Enterprise this approved and noble Commander narrowly escaped a dangerous shot: but some that accompanied him were wounded, amongst the rest Mr. <hi>He<g ref="char:EOLhyphen"/>mington</hi> a Plummer in <hi>Redcross-street</hi> was wounded, but it is ho<g ref="char:EOLhyphen"/>ped not mortal, two Butchers Prentices were shot at their own door near <hi>Beech-Lane</hi> end, an honest Fletcher near <hi>Grub-street</hi> end, and <hi>Stephen Proud-Love,</hi> Bell-man of St. <hi>Giles</hi> without <hi>Crip<g ref="char:EOLhyphen"/>ple-Gate.</hi>
+            </p>
+            <pb n="5" facs="tcp:33814:3"/>
+            <p>Innocent blood being thus shed, Major <hi>Tasker</hi> used all means possible to put a sudden check to their out-daring Insolencie; but before the rest of his Company could receive the allarum, and appear in arms, this party consisting of about fifty or sixty, well armed both with Fire-locks, Head-pieces, Breast and Back) march<g ref="char:EOLhyphen"/>ed by the Artillery Ground toward <hi>Hogsdon,</hi> where probably they had designed a Rendevouz. During which time, great was the Insurrection in other places, more especially at <hi>Bishops-gate,</hi> where some of the Trained Bands were wounded, and a young man slain: besides, one Mr. <hi>William Eyres</hi> was shot, and dyed immediatly upon his Wounds.</p>
+            <p>This sad Disaster (occasioned by a tumultuous Rising, contrary to the Laws of God and Man) has caused many to be deprived of liberty; five were taken on the Monday morning following and committed to Newgate: ten were seized on at a Meeting-place the same Evening and committed likewise, and seven on <hi>Tuesday</hi> morning last. As also many others are sent to the Gate-house, and others secured in several Prisons.</p>
+            <p>As for the rest of this tumultuous Crew that were in armes, we hear that most of them are dissipated; and that the Woman in three leg'd Court in <hi>White-cross-street</hi> (where many of them arm'd themselves and left their cloaks is also secured.</p>
+            <p>During this tumultuous Riot and Insurrection, these turbulent spirits dispiersed a treasonable Paper against his Royal Majesty and the present Government, justifying that horrid, unparallel'd and most desperate execrable Murder of our late gracious Sove<g ref="char:EOLhyphen"/>reign. What shali I say, my very bowels earn; my more, the martyrdom of so gracious and pious a Prince, has extracted a firm resolution to sacrifice my life for my dread Sovereign K. <hi>Charles</hi> the second. Oh wicked Miscreants Rigicides, and what not? to commit Villany unparallel'd, and impudently out-brave it, is the badge of a desperate traytor and an unhappy Christian: Unheard of impudence! can God be the author of treason? or can any man expect mercy from God's hands that voluntarily transgres<g ref="char:EOLhyphen"/>seth? <hi>Prosperum &amp; felix scelus virtus vocatur,</hi> was Heathenish Philosophy, though <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout question a Maxime in the Common<g ref="char:EOLhyphen"/>wealth of his Conscience, whilst Religion was made the stalking-horse to his Rebellion.</p>
+            <pb n="4" facs="tcp:33814:4"/>
+            <p>The Genius of this blood-thirsty Sect, we may well compare to those of <hi>Switzerland,</hi> who went from City to City where they heard that Reformation was received, (not to any Popish town) and wheresoever they came, they presently troubled the State, and filled all with clamour and Sedition. By them was the town of <hi>Walzut</hi> miserably ransacked, and all the Inhabitants driven, away out of their Possessions: the like they were like to have done at <hi>Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms,</hi> at <hi>Ausburg,</hi> at <hi>Bazel,</hi> at <hi>Shafuse,</hi> at <hi>Berne,</hi> at <hi>Lucerna,</hi> at <hi>Passaw;</hi> I will not weary the Reader with all these passages, their bloody actions he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e on several persons unarm'd, being sufficient to give a Character of their Sect.</p>
+            <p>It were an endlesse task to rehearse their several errours, yet I shall for example insert some of the chief. They held among other things, that rebaptized persons cannot sin, because they are Gods Children: that all Ministers that hold Church-livings are from the Devil: that the Apostles had nothing proper, but went from house to house, that they had no need of the Lords-prayer because they prayed by the Spirit; many denyed the God-head of Christ, for which two were executed at <hi>Neufcastle.</hi> In <hi>Mora<g ref="char:EOLhyphen"/>via</hi> especially that opinion was received, which Country because of the loosenesse of the Government swarmed with <hi>Anabaptists,</hi> and was cryed up by the Sectaries of <hi>Switzerland</hi> and upper <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> for a land of Promise, and thither many of them removed their houshold, when they found themselves represt.</p>
+            <p>By <hi>Bazel</hi> there was an uproar of some Villages who swarmed with this Sect, they made an insurrection (as these did in several parts of <hi>London</hi>) saying they would have these three things, all <hi>Tythes</hi> abolished, all Magistrates pull'd down, and all the ungod<g ref="char:EOLhyphen"/>ly kill'd, (meaning all that were no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their Sect) but they were stopt in time and dispersed. And the ground of these attempts of this Sect in so many places, was a dream they had of a temporal Kingdom of Christ, with whom all the godly should Reign on earth without any infirmity of Body or Soul, all Gods enemies being destroyed first; for all these <hi>Anabaptists</hi> were and are still <hi>Chiliasts,</hi> expounding litterally that Kingdom of a thousand years, of <hi>Rev.</hi> 20.6. to be a temporal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdom. That fancy put many of them out of their wits, all the Histories that speak of them relate many examples of their looking seriously for the
+<pb n="7" facs="tcp:33814:4"/> coming of the Lord upon such a night, being warned by Revelati<g ref="char:EOLhyphen"/>on, which made them first and pray that night, and put all their bus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nesses out of order.</p>
+            <p>Thus it appears evident, that the treasonable and pestiferous Ways of these men are no longer to be endured amongst civili<g ref="char:EOLhyphen"/>zed Christians: For if Treason ever wore a Cloak, you may see it here palliated to the life: and if we sum up all their Virtues in a Schedule, we may at the end write <hi>traytor.</hi> Oh let not the Genius of this Nation be ever for the time to come guilty of ex<g ref="char:EOLhyphen"/>tirpation of so famous and antient a Government as Monarchie: to be sorry for breaking the Oath of Allegeance made to our Sovereign, is no Plea in the Court of Conscience. Perjury is a voluntary act, it divests the soul of its private correspondencie with Heaven, and befits a Matchiavel rather then a Christian. Gods Name is abused, and <hi>Rigicidium</hi> called a pious Work: such act<g ref="char:EOLhyphen"/>ings as these upon base and mercenary Principles, hath exalted some of the heads of their Brethren, and leaves the sad names of <hi>traytor</hi> entailed to all Posterity.</p>
+            <p>In a word, let all such who shall dare to attempt to lift up a hand against our present Sovereign, know, his tender mercy and clemency may justly be turned into severity, since that they do further presume to proceed in their treasonable and wicked un<g ref="char:EOLhyphen"/>dertakings; For, notw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thstanding their last wicked design being timely discovered, yet they rebelliously presumed to put it in execution on <hi>Wednesday</hi> morning last; appearing to well armed (as before mentioned;) But the allarum being again received, and the Trained-bands immediatly in a posture of defence, their re<g ref="char:EOLhyphen"/>bellious design was soon frustrated; for after their Phanatick march from <hi>Cornhill</hi> into <hi>Cheap-side,</hi> and from thence to <hi>Alder<g ref="char:EOLhyphen"/>manbury</hi> (being about 50 in number) they received gallant op<g ref="char:EOLhyphen"/>position by the undanted resolution of the Trained bands; the White Regiment being as vigilant as any that appeared that day in Arms; the Red was a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Loyal; and the Green, Blew and the Orange no whit inferiour: during which time the brave <hi>London</hi> Apprentices a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med themselves an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> seized d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of these Fanatick spirits; pursving them f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om st<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet to street, and from house to house, till at the l<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t coming to the Golden <hi>Anchor</hi> near Moor<g ref="char:EOLhyphen"/>lane end, 6 of them had there taken sanctuary; but being closely
+<pb n="8" facs="tcp:33814:5"/> pursued they fired out at a Window; and at last two of them were taken, and 4 killed. But here it did not end, for imme<g ref="char:EOLhyphen"/>diatly af e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> divers others were taken in Moorfields: some were wounded <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the City; and although the shops were shut up, yet grear was the fear; for most people seemed astonished all the morning; but befoae 2 of the clock the whole party of these rebellious R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oters were totally dissipated, 11 being killed, 16 wounded, and the rest taken prisoners; though not without the losse of some Loyal Subjects.</p>
+            <p>Thus let all Treason be rewarded, and Traytors punished, who hazard Life and soul in opposition to their King and Countrey, whose a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>biquitary Consciences play fast and loose with Religion, and who constantly Morning and Evening, adde not to their <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ayers,</p>
+            <closer>God save the KING.</closer>
+            <pb facs="tcp:33814:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
